@@ -1,4 +1,4 @@
-### Olá! Me chamo Hugo Rodrigues. 👋
+## Olá! Me chamo Hugo Rodrigues. 👋
 
 - 🎓 Graduated in systems analysis and development
 - 🔭 Working with Back-end and Front-end
