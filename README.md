@@ -1,7 +1,7 @@
 ## Olá! Me chamo Hugo Rodrigues. 👋
 
 - 🎓 Graduated in systems analysis and development
-- 🔭 Working with Back-end and Front-end
+- 🔭 Working with Full Stack
 - 🌱 I'm studying React.js
 - 💬 Email: francisohugo0@gmail.com
 
