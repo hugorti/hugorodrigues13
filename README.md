@@ -2,7 +2,7 @@
 
 - 🎓 Graduated in systems analysis and development
 - 🔭 Working with Full Stack
-- 🌱 I'm studying Javascript
+- 🌱 I'm studying Typescript, Node, React
 - 💬 Email: francisohugo0@gmail.com
 
 ##
