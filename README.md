@@ -2,7 +2,7 @@
 
 - 🎓 Graduated in systems analysis and development
 - 🔭 Working with Full Stack
-- 🌱 I'm studying Typescript, Node, React
+- 🌱 I'm studying Typescript, Javascrip, NodeJs, ReactJs, NextJs, React Native, PostegreSql
 - 💬 Email: francisohugo0@gmail.com
 
 ##
